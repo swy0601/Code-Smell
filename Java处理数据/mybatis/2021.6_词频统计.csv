@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,21.6,1488
+Package Name,com.baomidou.mybatisplus.test.h2,179
+Package Name,com.baomidou.mybatisplus.test.handlers,90
+Package Name,com.baomidou.mybatisplus.extension.plugins.inner,86
+Package Name,com.baomidou.mybatisplus.core.conditions,71
+Package Name,com.baomidou.mybatisplus.test,69
+Type Name,H2UserTest,86
+Type Name,CacheTest,58
+Type Name,QueryWrapperTest,47
+Type Name,MybatisEnumTypeHandlerTest,40
+Type Name,Entity,30
+Code Smell,Magic Number,472
+Code Smell,Long Statement,384
+Code Smell,Unutilized Abstraction,335
+Code Smell,Unnecessary Abstraction,125
+Code Smell,Complex Conditional,30
+Method Name,test,44
+Method Name,testPageCache,35
+Method Name,injectMappedStatement,31
+Method Name,getResultFromResultSetByColumnIndex,27
+Method Name,getResultFromCallableStatement,27

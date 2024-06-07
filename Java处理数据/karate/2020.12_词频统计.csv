@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,20.12,1496
+Package Name,com.intuit.karate.core,256
+Package Name,com.intuit.karate.http,124
+Package Name,com.intuit.karate.robot,98
+Package Name,com.intuit.karate.driver,88
+Package Name,com.intuit.karate,83
+Type Name,ScenarioEngine,43
+Type Name,ScenarioRuntimeTest,34
+Type Name,MatchOperation,28
+Type Name,OpenCvUtils,21
+Type Name,DevToolsDriver,19
+Code Smell,Unutilized Abstraction,377
+Code Smell,Magic Number,377
+Code Smell,Long Statement,182
+Code Smell,Unnecessary Abstraction,99
+Code Smell,Cyclic-Dependent Modularization,96
+Method Name,start,23
+Method Name,testPaymentCreate,19
+Method Name,handle,16
+Method Name,testParallel,16
+Method Name,find,14

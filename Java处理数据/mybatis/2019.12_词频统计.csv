@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,19.12,1287
+Package Name,com.baomidou.mybatisplus.test.h2,160
+Package Name,com.baomidou.mybatisplus.core.toolkit,93
+Package Name,com.baomidou.mybatisplus.extension.handlers,56
+Package Name,com.baomidou.mybatisplus.generator.config.converts,53
+Package Name,com.baomidou.mybatisplus.test.generator,53
+Type Name,H2UserTest,66
+Type Name,WrapperTest,47
+Type Name,MybatisEnumTypeHandlerTest,39
+Type Name,CacheTest,33
+Type Name,ActiveRecordTest,26
+Code Smell,Long Statement,341
+Code Smell,Magic Number,333
+Code Smell,Unutilized Abstraction,303
+Code Smell,Unnecessary Abstraction,76
+Code Smell,Complex Method,41
+Method Name,test,34
+Method Name,testPageCache,32
+Method Name,injectMappedStatement,31
+Method Name,processTypeConvert,24
+Method Name,crudTest,14

@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,18.12,995
+Package Name,com.intuit.karate,267
+Package Name,com.intuit.karate.core,142
+Package Name,com.intuit.karate.junit4.demos,67
+Package Name,com.intuit.karate.ui,44
+Package Name,mock.contract,26
+Type Name,Script,81
+Type Name,ScriptTest,49
+Type Name,ScriptValue,23
+Type Name,FeatureEditTest,22
+Type Name,MatchStep,13
+Code Smell,Unutilized Abstraction,250
+Code Smell,Magic Number,206
+Code Smell,Long Statement,118
+Code Smell,Unnecessary Abstraction,102
+Code Smell,Cyclic-Dependent Modularization,77
+Method Name,start,24
+Method Name,configure,14
+Method Name,matchStringOrPattern,14
+Method Name,printStats,11
+Method Name,matchNestedObject,10

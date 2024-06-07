@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,18.12,948
+Package Name,com.baomidou.mybatisplus.test.mysql,115
+Package Name,com.baomidou.mybatisplus.test.postgres,83
+Package Name,com.baomidou.mybatisplus.test.h2,81
+Package Name,com.baomidou.mybatisplus.core.toolkit,76
+Package Name,com.baomidou.mybatisplus.core.test,50
+Type Name,MysqlTestDataMapperTest,92
+Type Name,PostgresTestDataMapperTest,80
+Type Name,WrapperTest,45
+Type Name,H2UserTest,40
+Type Name,SelectCountDistinctTest,20
+Code Smell,Long Statement,287
+Code Smell,Magic Number,276
+Code Smell,Unutilized Abstraction,180
+Code Smell,Complex Method,36
+Code Smell,Complex Conditional,24
+Method Name,injectMappedStatement,39
+Method Name,c3_update,24
+Method Name,b3_delete,17
+Method Name,d5_selectOne,17
+Method Name,d6_selectList,16

@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,20.9,1502
+Package Name,com.intuit.karate,322
+Package Name,com.intuit.karate.core,201
+Package Name,com.intuit.karate.robot,98
+Package Name,com.intuit.karate.driver,86
+Package Name,com.intuit.karate.junit4.demos,82
+Type Name,Script,88
+Type Name,ScriptTest,55
+Type Name,FeatureEditTest,22
+Type Name,ScriptValue,21
+Type Name,OpenCvUtils,21
+Code Smell,Magic Number,384
+Code Smell,Unutilized Abstraction,364
+Code Smell,Long Statement,153
+Code Smell,Unnecessary Abstraction,116
+Code Smell,Cyclic-Dependent Modularization,99
+Method Name,start,25
+Method Name,testPaymentCreate,19
+Method Name,configure,14
+Method Name,matchStringOrPattern,14
+Method Name,matchNestedObject,14
