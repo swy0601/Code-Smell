@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,24.3,54311
+Package Name,org.apache.pulsar.broker.service,4930
+Package Name,org.apache.pulsar.client.impl,4234
+Package Name,org.apache.pulsar.client.api,3269
+Package Name,org.apache.bookkeeper.mledger.impl,3232
+Package Name,org.apache.pulsar.broker.admin,2835
+Type Name,PersistentTopics,1207
+Type Name,Namespaces,782
+Type Name,ManagedCursorTest,650
+Type Name,SimpleProducerConsumerTest,601
+Type Name,TopicPoliciesTest,581
+Code Smell,Magic Number,27449
+Code Smell,Long Statement,16934
+Code Smell,Unutilized Abstraction,2872
+Code Smell,Long Identifier,1421
+Code Smell,Long Parameter List,1238
+Method Name,setup,513
+Method Name,run,325
+Method Name,main,193
+Method Name,start,186
+Method Name,printTopicStats,161

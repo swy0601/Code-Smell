@@ -1,0 +1,22 @@
+ÁÐÃû,´Ê,³öÏÖ´ÎÊý
+Project Name,19.6,7344
+Package Name,net.sourceforge.pmd.cpd,499
+Package Name,net.sourceforge.pmd,432
+Package Name,net.sourceforge.pmd.lang.java.ast,427
+Package Name,net.sourceforge.pmd.lang.java.rule.errorprone,388
+Package Name,net.sourceforge.pmd.properties,308
+Type Name,XmlParserTest,136
+Type Name,JspDocStyleTest,87
+Type Name,ClassTypeResolverTest,83
+Type Name,VfDocStyleTest,71
+Type Name,RuleSetFactoryTest,59
+Code Smell,Magic Number,1959
+Code Smell,Unutilized Abstraction,1734
+Code Smell,Long Statement,1322
+Code Smell,Unnecessary Abstraction,495
+Code Smell,Broken Hierarchy,337
+Method Name,visit,406
+Method Name,testLineNumbers,71
+Method Name,binaryNumericPromotion,49
+Method Name,hashCode,48
+Method Name,testComparator,38

@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,23.12,20548
+Package Name,org.robolectric.shadows,11990
+Package Name,org.robolectric.integrationtests.nativegraphics,3378
+Package Name,org.robolectric.res.android,1055
+Package Name,org.robolectric,519
+Package Name,android.graphics,284
+Type Name,ShadowNativeRegionTest,549
+Type Name,ShadowNativeBitmapTest,530
+Type Name,ShadowNativeStaticLayoutTest,387
+Type Name,ShadowNativePaintTest,318
+Type Name,ShadowMatrixTest,280
+Code Smell,Magic Number,11985
+Code Smell,Long Statement,3242
+Code Smell,Unutilized Abstraction,1704
+Code Smell,Long Parameter List,1096
+Code Smell,Deficient Encapsulation,406
+Method Name,addCommand,134
+Method Name,build,106
+Method Name,hashCode,96
+Method Name,invert,72
+Method Name,setUp,66
