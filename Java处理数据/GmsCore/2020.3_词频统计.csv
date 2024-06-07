@@ -1,0 +1,22 @@
+åå,è¯?åºç°æ¬¡æ°,Unnamed: 2
+Project Name,20.3,2153
+Package Name,org.microg.gms.checkin,235
+Package Name,org.microg.gms.gcm,141
+Package Name,org.microg.gms.gcm.mcs,134
+Package Name,com.google.android.gms.drive.internal,129
+Package Name,org.microg.gms.wearable,112
+Type Name,Builder,98
+Type Name,CheckinRequest,77
+Type Name,McsService,50
+Type Name,Checkin,34
+Type Name,ConnectionResult,26
+Code Smell,Magic Number,549
+Code Smell,Deficient Encapsulation,389
+Code Smell,Unutilized Abstraction,353
+Code Smell,Long Statement,331
+Code Smell,Unnecessary Abstraction,159
+Method Name,hashCode,261
+Method Name,equals,25
+Method Name,getStatusString,24
+Method Name,toString,23
+Method Name,onCreate,23

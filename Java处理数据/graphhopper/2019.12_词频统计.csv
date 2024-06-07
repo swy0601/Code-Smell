@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,19.12,23614
+Package Name,com.graphhopper.routing,5016
+Package Name,com.graphhopper.routing.ch,3198
+Package Name,com.graphhopper.storage,2415
+Package Name,com.graphhopper.util,1772
+Package Name,com.graphhopper,1443
+Type Name,CHTurnCostTest,1006
+Type Name,EdgeBasedNodeContractorTest,1001
+Type Name,AbstractGraphStorageTester,796
+Type Name,RoutingAlgorithmTest,772
+Type Name,CHQueryWithTurnCostsTest,756
+Code Smell,Magic Number,20473
+Code Smell,Long Statement,1641
+Code Smell,Unutilized Abstraction,494
+Code Smell,Long Parameter List,242
+Code Smell,Complex Method,170
+Method Name,testGetEle,254
+Method Name,RoundaboutGraph,224
+Method Name,createTestGraph2,210
+Method Name,testFindPath_randomContractionOrder_complicatedGraphAndPath,175
+Method Name,testUnpacking,154

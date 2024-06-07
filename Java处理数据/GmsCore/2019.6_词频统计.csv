@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,19.6,730
+Package Name,com.google.android.gms.drive.internal,165
+Package Name,com.google.android.gms.location,64
+Package Name,com.google.android.gms.maps.model,62
+Package Name,com.google.android.gms.wearable.internal,51
+Package Name,com.google.android.gms.common,29
+Type Name,ConnectionResult,26
+Type Name,LatLng,14
+Type Name,LatLngBounds,13
+Type Name,Builder,10
+Type Name,DetectedActivity,10
+Code Smell,Unutilized Abstraction,222
+Code Smell,Deficient Encapsulation,221
+Code Smell,Unnecessary Abstraction,132
+Code Smell,Magic Number,67
+Code Smell,Long Statement,31
+Method Name,getStatusString,24
+Method Name,toString,17
+Method Name,LatLng,9
+Method Name,typeToString,9
+Method Name,hashCode,7

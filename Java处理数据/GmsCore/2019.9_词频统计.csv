@@ -1,0 +1,22 @@
+åå,è¯?åºç°æ¬¡æ°,Unnamed: 2
+Project Name,19.9,1170
+Package Name,org.microg.gms.checkin,235
+Package Name,org.microg.gms.gcm.mcs,134
+Package Name,org.microg.gms.gcm,132
+Package Name,org.microg.gms.wearable,101
+Package Name,org.microg.gms.ui,67
+Type Name,CheckinRequest,77
+Type Name,Builder,70
+Type Name,McsService,45
+Type Name,Checkin,34
+Type Name,GcmPrefs,28
+Code Smell,Magic Number,432
+Code Smell,Long Statement,225
+Code Smell,Unutilized Abstraction,161
+Code Smell,Deficient Encapsulation,119
+Code Smell,Long Parameter List,68
+Method Name,hashCode,239
+Method Name,onCreate,21
+Method Name,equals,19
+Method Name,fromCursor,15
+Method Name,updateDetails,12

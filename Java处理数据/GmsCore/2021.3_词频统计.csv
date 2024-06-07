@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,21.3,2214
+Package Name,org.microg.gms.gcm,139
+Package Name,com.google.android.gms.drive.internal,129
+Package Name,com.google.android.gms.nearby.exposurenotification,127
+Package Name,com.google.firebase.auth.api.internal,120
+Package Name,org.microg.gms.wearable,113
+Type Name,McsService,52
+Type Name,Builder,33
+Type Name,GcmPrefs,30
+Type Name,CameraSource,28
+Type Name,ConnectionResult,26
+Code Smell,Deficient Encapsulation,435
+Code Smell,Unutilized Abstraction,416
+Code Smell,Magic Number,398
+Code Smell,Long Statement,336
+Code Smell,Unnecessary Abstraction,211
+Method Name,hashCode,64
+Method Name,toString,28
+Method Name,build,28
+Method Name,run,25
+Method Name,getStatusString,24

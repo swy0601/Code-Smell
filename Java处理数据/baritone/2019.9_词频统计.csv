@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,19.9,1525
+Package Name,baritone.pathing.movement.movements,242
+Package Name,baritone.process,185
+Package Name,baritone.cache,171
+Package Name,baritone.utils,145
+Package Name,baritone.utils.command.defaults,123
+Type Name,BuilderProcess,85
+Type Name,CachedRegion,69
+Type Name,PathRenderer,56
+Type Name,PathExecutor,52
+Type Name,MovementTraverse,50
+Code Smell,Magic Number,714
+Code Smell,Long Statement,265
+Code Smell,Unutilized Abstraction,172
+Code Smell,Complex Conditional,94
+Code Smell,Complex Method,62
+Method Name,updateState,125
+Method Name,cost,78
+Method Name,onTick,53
+Method Name,load,40
+Method Name,executed,40

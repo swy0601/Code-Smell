@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,20.9,1955
+Package Name,org.microg.gms.gcm,155
+Package Name,com.google.android.gms.drive.internal,129
+Package Name,com.google.android.gms.nearby.exposurenotification,118
+Package Name,org.microg.gms.wearable,112
+Package Name,org.microg.gms.location,83
+Type Name,McsService,54
+Type Name,GcmPrefs,29
+Type Name,ConnectionResult,26
+Type Name,WearableImpl,23
+Type Name,ExposureConfiguration,23
+Code Smell,Magic Number,375
+Code Smell,Unutilized Abstraction,365
+Code Smell,Deficient Encapsulation,353
+Code Smell,Long Statement,315
+Code Smell,Unnecessary Abstraction,166
+Method Name,hashCode,61
+Method Name,toString,28
+Method Name,build,24
+Method Name,getStatusString,24
+Method Name,onCreate,23
