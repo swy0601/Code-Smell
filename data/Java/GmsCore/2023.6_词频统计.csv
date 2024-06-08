@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,23.6,2801
+Package Name,com.google.android.gms.location,157
+Package Name,com.google.android.gms.drive.internal,129
+Package Name,com.google.android.gms.nearby.exposurenotification,129
+Package Name,com.google.firebase.auth.api.internal,120
+Package Name,com.google.android.gms.fido.fido2.api.common,117
+Type Name,Builder,75
+Type Name,McsService,51
+Type Name,CameraSource,28
+Type Name,ConnectionResult,26
+Type Name,ExposureConfiguration,23
+Code Smell,Unutilized Abstraction,583
+Code Smell,Deficient Encapsulation,582
+Code Smell,Magic Number,432
+Code Smell,Long Statement,420
+Code Smell,Unnecessary Abstraction,259
+Method Name,hashCode,74
+Method Name,toString,53
+Method Name,build,36
+Method Name,equals,32
+Method Name,onCreate,32
