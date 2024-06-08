@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,21.3,1740
+Package Name,com.intuit.karate.core,303
+Package Name,com.intuit.karate,188
+Package Name,com.intuit.karate.http,134
+Package Name,com.intuit.karate.core.runner.hooks,105
+Package Name,com.intuit.karate.robot,98
+Type Name,HooksTest,100
+Type Name,ScenarioRuntimeTest,53
+Type Name,ScenarioEngine,43
+Type Name,MatchOperation,34
+Type Name,OpenCvUtils,21
+Code Smell,Magic Number,428
+Code Smell,Unutilized Abstraction,390
+Code Smell,Long Statement,322
+Code Smell,Cyclic-Dependent Modularization,122
+Code Smell,Unnecessary Abstraction,99
+Method Name,testParallel,23
+Method Name,start,21
+Method Name,testPaymentCreate,19
+Method Name,handle,16
+Method Name,testMultipleDynamicOutlineMultipleTablesTagSelectHook,15

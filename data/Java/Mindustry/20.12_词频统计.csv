@@ -1,0 +1,22 @@
+列名,词,出现次数
+Project Name,20.12,12346
+Package Name,mindustry.content,2523
+Package Name,mindustry.ui.dialogs,901
+Package Name,mindustry.world.blocks.distribution,626
+Package Name,mindustry.graphics,597
+Package Name,mindustry.entities.comp,524
+Type Name,Blocks,1123
+Type Name,UnitTypes,920
+Type Name,Bullets,268
+Type Name,SerpuloPlanetGenerator,200
+Type Name,Waves,196
+Code Smell,Magic Number,8927
+Code Smell,Long Statement,966
+Code Smell,Unutilized Abstraction,595
+Code Smell,Complex Conditional,528
+Code Smell,Deficient Encapsulation,466
+Method Name,load,2511
+Method Name,draw,1011
+Method Name,generate,436
+Method Name,updateTile,347
+Method Name,update,297

@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,22.9,1832
+Package Name,com.intuit.karate.core,337
+Package Name,com.intuit.karate,196
+Package Name,com.intuit.karate.http,153
+Package Name,com.intuit.karate.driver,104
+Package Name,com.intuit.karate.robot,98
+Type Name,HooksTest,79
+Type Name,ScenarioRuntimeTest,57
+Type Name,ScenarioEngine,42
+Type Name,MatchOperation,34
+Type Name,DevToolsDriver,25
+Code Smell,Magic Number,466
+Code Smell,Unutilized Abstraction,385
+Code Smell,Long Statement,360
+Code Smell,Cyclic-Dependent Modularization,124
+Code Smell,Complex Method,93
+Method Name,testParallel,33
+Method Name,handle,21
+Method Name,start,20
+Method Name,testPaymentCreate,19
+Method Name,testMultipleDynamicOutlineMultipleTablesTagSelectHook,14
