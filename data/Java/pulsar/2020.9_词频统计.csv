@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,20.9,45659
+Package Name,org.apache.pulsar.common.api.proto,16601
+Package Name,org.apache.pulsar.broker.service,2507
+Package Name,org.apache.pulsar.client.impl,2239
+Package Name,org.apache.bookkeeper.mledger.impl,2061
+Package Name,org.apache.pulsar.client.api,1991
+Type Name,PulsarApi,5975
+Type Name,Builder,3830
+Type Name,BaseCommand,1326
+Type Name,PersistentTopics,678
+Type Name,WindowManagerTest,556
+Code Smell,Magic Number,28989
+Code Smell,Long Statement,9730
+Code Smell,Unutilized Abstraction,1962
+Code Smell,Complex Method,687
+Code Smell,Empty catch clause,664
+Method Name,buildPartial,2841
+Method Name,mergeFrom,2529
+Method Name,getSerializedSize,1724
+Method Name,writeTo,1672
+Method Name,clear,901

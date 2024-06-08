@@ -1,0 +1,22 @@
+åå,è¯,åºç°æ¬¡æ°
+Project Name,23.3,16141
+Package Name,org.robolectric.shadows,11309
+Package Name,org.robolectric.res.android,1028
+Package Name,org.robolectric,504
+Package Name,org.robolectric.android,263
+Package Name,android.graphics,258
+Type Name,ShadowMatrixTest,276
+Type Name,ShadowUsageStatsManagerTest,268
+Type Name,ShadowParcelTest,256
+Type Name,ShadowBitmapTest,253
+Type Name,MotionEventTest,211
+Code Smell,Magic Number,8593
+Code Smell,Long Statement,2768
+Code Smell,Unutilized Abstraction,1523
+Code Smell,Long Parameter List,951
+Code Smell,Deficient Encapsulation,356
+Method Name,addCommand,134
+Method Name,build,82
+Method Name,hashCode,80
+Method Name,invert,72
+Method Name,setUp,67
